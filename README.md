@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neeraj R.V
 
-🚀 Robotics | AI | Reinforcement Learning | Computer Vision  
+🚀 Robotics | AI | RL | Computer Vision | ROS2 | Gazebo | Autonomous Vechicles | ML | RAG SYSTEMS
 
 ---
 
@@ -27,15 +27,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-red)
 ![Machine Learning](https://img.shields.io/badge/ML-yellow)
 
----
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neeraj-git-code&show_icons=true&theme=radical&cache_seconds=0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-git-code&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Neeraj-git-code&theme=radical)
