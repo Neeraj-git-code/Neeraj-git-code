@@ -29,9 +29,9 @@
 
 ---
 
+
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj-git-code&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neeraj-git-code&show_icons=true&theme=radical&cache_seconds=0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-git-code&layout=compact&theme=tokyonight)
 
